@@ -19,14 +19,19 @@ Profiling API concepts and familiarity with API
  1. https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/index
  2. The .NET Framework SDK Tool Developer Guide documentation directory. 
     Wherever the .NET Framework SDK has been installed this is the Tool Developers Guide\docs subdirectory. Pertinent documents are Profiling.doc, Metadata Unmanaged API.doc.
+ 3. Some Important CLR APIs:
+  
+  a.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-moduleloadfinished-method
+  
+  b.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-jitcompilationstarted-method
  
- Some Important CLR APIs:
- 1.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-moduleloadfinished-method
- 2.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-jitcompilationstarted-method
- 3.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback4-getrejitparameters-method
- 4.)https://blogs.msdn.microsoft.com/davbr/2011/10/12/rejit-a-how-to-guide/
- 5.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilerinfo4-requestrejit-method
- 6.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilerinfo4-requestrevert-method
+  c.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback4-getrejitparameters-method
+ 
+  d.)https://blogs.msdn.microsoft.com/davbr/2011/10/12/rejit-a-how-to-guide/
+  
+  e.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilerinfo4-requestrejit-method
+  
+  f.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilerinfo4-requestrevert-method
 
 Common Intermediate Language
 ----------------------------
