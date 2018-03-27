@@ -7,7 +7,7 @@ General Common Language Runtime understanding
 1. https://www.codeproject.com/Articles/1042196/Introduction-to-CLR-World
 2. https://www.codeproject.com/Articles/7333/Understanding-NET-Framework-at-a-glance
 3. http://www.codeproject.com/Articles/20481/NET-Type-Internals-From-a-Microsoft-CLR-Perspecti
-4.  https://iobservable.net/blog/2013/05/12/introduction-to-clr-metadata/
+4. https://iobservable.net/blog/2013/05/12/introduction-to-clr-metadata/
 5. https://docs.microsoft.com/en-us/dotnet/standard/metadata-and-self-describing-components
 6. https://www.red-gate.com/simple-talk/blogs/anatomy-of-a-net-assembly-clr-metadata-1/
 7. https://www.codeproject.com/Articles/42649/NET-file-format-Signatures-under-the-hood-Part
@@ -21,12 +21,12 @@ Profiling API concepts and familiarity with API
     Wherever the .NET Framework SDK has been installed this is the Tool Developers Guide\docs subdirectory. Pertinent documents are Profiling.doc, Metadata Unmanaged API.doc.
  
  Some Important CLR APIs:
-    a.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-moduleloadfinished-method
-    b.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-jitcompilationstarted-method
-    c.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback4-getrejitparameters-method
-    d.)https://blogs.msdn.microsoft.com/davbr/2011/10/12/rejit-a-how-to-guide/
-    e.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilerinfo4-requestrejit-method
-    f.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilerinfo4-requestrevert-method
+ 1.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-moduleloadfinished-method
+ 2.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-jitcompilationstarted-method
+ 3.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback4-getrejitparameters-method
+ 4.)https://blogs.msdn.microsoft.com/davbr/2011/10/12/rejit-a-how-to-guide/
+ 5.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilerinfo4-requestrejit-method
+ 6.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilerinfo4-requestrevert-method
 
 Common Intermediate Language
 ----------------------------
