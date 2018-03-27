@@ -18,7 +18,8 @@ Profiling API concepts and familiarity with API
 -----------------------------------------------
  1. https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/index
  2. The .NET Framework SDK Tool Developer Guide documentation directory. 
-    Wherever the .NET Framework SDK has been installed this is the Tool Developers Guide\docs subdirectory. Pertinent documents are Profiling.doc, Metadata Unmanaged API.doc .
+    Wherever the .NET Framework SDK has been installed this is the Tool Developers Guide\docs subdirectory. Pertinent documents are Profiling.doc, Metadata Unmanaged API.doc.
+ 
  Some Important CLR APIs:
     a.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-moduleloadfinished-method
     b.)https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/icorprofilercallback-jitcompilationstarted-method
